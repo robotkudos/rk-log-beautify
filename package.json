@@ -1,0 +1,15 @@
+{
+  "name": "rk-log-beautify",
+  "version": "0.1.0",
+  "description": "Output beautiful, easy to recognize log.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "RobotKudos <info@robotkudos.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
